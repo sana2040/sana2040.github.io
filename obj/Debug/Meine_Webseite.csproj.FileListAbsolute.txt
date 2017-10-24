@@ -1,0 +1,9 @@
+C:\Users\sanab\source\repos\Meine_Webseite\Meine_Webseite\bin\Meine_Webseite.dll.config
+C:\Users\sanab\source\repos\Meine_Webseite\Meine_Webseite\bin\Meine_Webseite.dll
+C:\Users\sanab\source\repos\Meine_Webseite\Meine_Webseite\bin\Meine_Webseite.pdb
+C:\Users\sanab\source\repos\Meine_Webseite\Meine_Webseite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sanab\source\repos\Meine_Webseite\Meine_Webseite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sanab\source\repos\Meine_Webseite\Meine_Webseite\obj\Debug\Meine_Webseite.csprojResolveAssemblyReference.cache
+C:\Users\sanab\source\repos\Meine_Webseite\Meine_Webseite\obj\Debug\Meine_Webseite.csproj.CoreCompileInputs.cache
+C:\Users\sanab\source\repos\Meine_Webseite\Meine_Webseite\obj\Debug\Meine_Webseite.dll
+C:\Users\sanab\source\repos\Meine_Webseite\Meine_Webseite\obj\Debug\Meine_Webseite.pdb
